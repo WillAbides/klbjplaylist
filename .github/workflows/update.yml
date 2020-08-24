@@ -19,5 +19,5 @@ jobs:
           git add data
           git config --global user.email "noreply@github.com"
           git config --global user.name "update action"
-          git commit -m "updata data"
+          git commit -m "update data"
           git push
