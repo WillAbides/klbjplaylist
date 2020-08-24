@@ -12,4 +12,6 @@ jobs:
           go-version: '~1.15.0'
       - run: make bin/klbjplaylist
       - run: bin/klbjplaylist
-      - run: git status
+      - run: git add data
+      - run: git commit -am "updata data"
+      - run: git push
