@@ -1,0 +1,15 @@
+name: update
+on:
+  workflow_dispatch: {}
+jobs:
+  update:
+    name: update
+    runs-on: ubuntu-18.04
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-go@v2
+        with:
+          go-version: '~1.15.0'
+      - run: make bin/klbjplaylist
+      - run: bin/klbjplaylist
+      - run: git status
