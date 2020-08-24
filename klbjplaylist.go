@@ -31,7 +31,7 @@ type playingEntry struct {
 
 func (e playingEntry) trackPlay() (trackPlay, error) {
 	play := trackPlay{
-		StartTime: time.Unix(e.Timestamp, 0).UTC(),
+		StartTime: time.Unix(e.Timestamp, 0).In(tzLocation),
 	}
 	for _, property := range e.Properties {
 		switch property.Name {
@@ -83,8 +83,8 @@ func trackPlaysByDay(plays []trackPlay) map[time.Time][]trackPlay {
 	result := map[time.Time][]trackPlay{}
 	for i := range plays {
 		play := plays[i]
-		tm := play.StartTime
-		day := time.Date(tm.Year(), tm.Month(), tm.Day(), 0, 0, 0, 0, time.UTC)
+		tm := play.StartTime.In(tzLocation)
+		day := time.Date(tm.Year(), tm.Month(), tm.Day(), 0, 0, 0, 0, tzLocation)
 		result[day] = addToPlays(&play, result[day])
 	}
 	return result
@@ -113,7 +113,7 @@ func playsToCSV(out io.Writer, plays []trackPlay) error {
 
 	for _, play := range plays {
 		err = w.Write([]string{
-			play.StartTime.Format(time.RFC3339),
+			play.StartTime.In(tzLocation).Format(time.RFC3339),
 			play.Title,
 			play.Artist,
 			strconv.Itoa(int(play.Duration / time.Second)),
@@ -148,7 +148,7 @@ func playsFromCSV(in io.Reader) ([]trackPlay, error) {
 			Artist:    record[2],
 			ProgramID: record[4],
 		}
-		play.StartTime, err = time.Parse(time.RFC3339, record[0])
+		play.StartTime, err = time.ParseInLocation(time.RFC3339, record[0], tzLocation)
 		if err != nil {
 			return nil, err
 		}

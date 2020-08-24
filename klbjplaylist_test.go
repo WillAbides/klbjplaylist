@@ -38,7 +38,7 @@ func Test_trackPlaysFromXML(t *testing.T) {
 	require.NoError(t, err)
 	require.Len(t, plays, 69)
 	wantFirst := trackPlay{
-		StartTime: time.Date(2020, 8, 24, 15, 30, 17, 0, time.UTC),
+		StartTime: time.Date(2020, 8, 24, 10, 30, 17, 0, tzLocation),
 		Title:     "Why Can't This Be Love",
 		Artist:    "Van Halen",
 		ProgramID: "203",
@@ -46,7 +46,7 @@ func Test_trackPlaysFromXML(t *testing.T) {
 	}
 	require.Equal(t, wantFirst, plays[0])
 	wantLast := trackPlay{
-		StartTime: time.Date(2020, 8, 24, 9, 19, 0, 0, time.UTC),
+		StartTime: time.Date(2020, 8, 24, 4, 19, 0, 0, tzLocation),
 		Title:     "Don't Do Me Like That",
 		Artist:    "Tom Petty & The Heartbreaker",
 		ProgramID: "201",
@@ -84,12 +84,12 @@ func Test_trackPlaysByDay(t *testing.T) {
 	}
 	got := trackPlaysByDay(examples)
 	require.Len(t, got, 2)
-	require.Len(t, got[time.Date(2020, 8, 24, 0, 0, 0, 0, time.UTC)], 59)
-	require.Len(t, got[time.Date(2020, 8, 25, 0, 0, 0, 0, time.UTC)], 10)
+	require.Len(t, got[time.Date(2020, 8, 24, 0, 0, 0, 0, tzLocation)], 59)
+	require.Len(t, got[time.Date(2020, 8, 25, 0, 0, 0, 0, tzLocation)], 10)
 }
 
 func Test_csvFileName(t *testing.T) {
-	date := time.Date(2020, 8, 24, 0, 0, 0, 0, time.UTC)
+	date := time.Date(2020, 8, 24, 0, 0, 0, 0, tzLocation)
 	got := csvFileName(date)
 	want := "plays-2020-08-24.csv"
 	require.Equal(t, want, got)
