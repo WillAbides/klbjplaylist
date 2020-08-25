@@ -1,109 +1,114 @@
 start time,title,artist,duration,program id
-2020-08-25T08:34:23-05:00,Fell On Black Days,Soundgarden,274,201
-2020-08-25T08:30:32-05:00,Hey Joe,Jimi Hendrix,200,201
-2020-08-25T08:26:51-05:00,Rock And Roll All Nite,Kiss,221,201
-2020-08-25T08:23:04-05:00,I Won't Back Down,Tom Petty,170,201
-2020-08-25T08:18:27-05:00,Smokin',Boston,257,201
-2020-08-25T08:16:04-05:00,Good Riddance (Time of Your,Green Day,143,201
-2020-08-25T08:09:26-05:00,Love In An Elevator,Aerosmith,320,201
-2020-08-25T07:57:33-05:00,Jamie's Cryin',Van Halen,197,201
-2020-08-25T07:53:48-05:00,Home Sweet Home,Motley Crue,224,201
-2020-08-25T07:48:40-05:00,All Apologies  (Album Versio,Nirvana,225,201
-2020-08-25T07:45:07-05:00,Highway To Hell,AC/DC,206,201
-2020-08-25T07:40:31-05:00,American Woman,Guess Who,224,201
-2020-08-25T07:36:44-05:00,Times Like These (edit),Foo Fighters,226,203
-2020-08-25T07:31:17-05:00,Wish You Were Here,Pink Floyd,279,201
-2020-08-25T07:19:58-05:00,Rhiannon,Fleetwood Mac,239,201
-2020-08-25T07:14:46-05:00,Armageddon It,Def Leppard,306,201
-2020-08-25T07:08:10-05:00,Fade To Black,Metallica,395,201
-2020-08-25T07:04:22-05:00,Paranoid,Black Sabbath,164,201
-2020-08-25T06:59:31-05:00,Rebel Yell,Billy Idol,283,201
-2020-08-25T06:58:39-05:00,Remote 1,Call in,51,PG2
-2020-08-25T06:54:55-05:00,Brown Sugar,Rolling Stones,224,201
-2020-08-25T06:48:10-05:00,Remote 1,Call in,35,PG2
-2020-08-25T06:44:57-05:00,Rock 'n' Roll Fantasy,Bad Company,192,201
-2020-08-25T06:40:21-05:00,Tightrope,Stevie Ray Vaughn,266,201
-2020-08-25T06:39:37-05:00,Remote 1,Call in,44,PG2
-2020-08-25T06:35:16-05:00,Barracuda,Heart,260,202
-2020-08-25T06:31:06-05:00,No Excuses,Alice In Chains,250,201
-2020-08-25T06:30:13-05:00,Remote 1,Call in,52,PG2
-2020-08-25T06:27:04-05:00,Any Way You Want It,Journey,189,201
-2020-08-25T06:20:47-05:00,Fool In The Rain,Led Zeppelin,367,201
-2020-08-25T06:13:37-05:00,Remote 1,Call in,51,PG2
-2020-08-25T06:08:50-05:00,White Room,Cream,287,201
-2020-08-25T06:05:15-05:00,Walk This Way,Aerosmith,214,201
-2020-08-25T06:00:04-05:00,Possum Kingdom (LP Version),Toadies,303,201
-2020-08-25T05:49:12-05:00,I Can't Drive 55,Sammy Hagar,239,201
-2020-08-25T05:46:06-05:00,Killer Queen,Queen,174,201
-2020-08-25T05:40:50-05:00,Freewill,Rush,316,201
-2020-08-25T05:37:15-05:00,Are You Gonna Go My Way,Lenny Kravitz,202,202
-2020-08-25T05:33:39-05:00,I Want You To Want Me (Live),Cheap Trick,215,201
-2020-08-25T05:27:51-05:00,For Those About To Rock (We,AC/DC,342,201
-2020-08-25T05:24:25-05:00,Take It Easy,Eagles,205,201
-2020-08-25T05:11:08-05:00,Enter Sandman,Metallica,308,201
-2020-08-25T05:06:24-05:00,Black Dog,Led Zeppelin,284,201
-2020-08-25T05:02:14-05:00,Hair Of The Dog,Nazareth,240,201
-2020-08-25T04:58:19-05:00,The Waiting,Tom Petty,227,201
-2020-08-25T04:54:43-05:00,What's Your Name,Lynyrd Skynyrd,205,201
-2020-08-25T04:51:46-05:00,Live And Let Die,Guns N' Roses,176,201
-2020-08-25T04:47:45-05:00,No One Like You,Scorpions,229,201
-2020-08-25T04:40:21-05:00,You Can't Always Get What Yo,Rolling Stones,437,201
-2020-08-25T04:35:31-05:00,Peace Of Mind,Boston,290,201
-2020-08-25T04:29:54-05:00,Love Bites,Def Leppard,321,201
-2020-08-25T04:26:54-05:00,Roxanne,Police,179,201
-2020-08-25T04:22:24-05:00,Self Esteem,"Offspring, The",255,201
-2020-08-25T04:17:55-05:00,Lonely Is The Night,"Squier, Billy",269,201
-2020-08-25T04:09:54-05:00,The Boys Are Back In Town,Thin Lizzy,257,201
-2020-08-25T04:07:09-05:00,Purple Haze,Jimi Hendrix,164,201
-2020-08-25T04:03:48-05:00,Cold As Ice,Foreigner,190,201
-2020-08-25T03:59:30-05:00,Rag Doll (CD Version),Aerosmith,252,201
-2020-08-25T03:54:29-05:00,Have A Cigar,Pink Floyd,292,201
-2020-08-25T03:50:17-05:00,All My Life,Foo Fighters,251,201
-2020-08-25T03:46:40-05:00,We're Not Gonna Take It,Twisted Sister,205,201
-2020-08-25T03:42:23-05:00,D'yer Mak'er,Led Zeppelin,256,201
-2020-08-25T03:35:03-05:00,Crazy Train,Ozzy Osbourne,277,201
-2020-08-25T03:32:11-05:00,Vasoline,Stonetemple Pilots,163,204
-2020-08-25T03:26:19-05:00,Bohemian Rhapsody,Queen,351,201
-2020-08-25T03:21:20-05:00,Thunderstruck,AC/DC,289,201
-2020-08-25T03:18:53-05:00,Black Betty,Ram Jam,147,201
-2020-08-25T03:10:43-05:00,Under The Bridge (Album Vers,Red Hot Chili Peppers,260,201
-2020-08-25T03:04:23-05:00,Hotel California,Eagles,379,201
-2020-08-25T03:01:01-05:00,Touch Me,Doors,188,201
-2020-08-25T02:53:53-05:00,One,Metallica,421,201
-2020-08-25T02:50:24-05:00,Beast Of Burden,Rolling Stones,198,201
-2020-08-25T02:47:31-05:00,When I Come Around,Green Day,173,201
-2020-08-25T02:41:31-05:00,Sweet Child O' Mine (LP Vers,Guns N' Roses,348,201
-2020-08-25T02:38:07-05:00,China Grove,Doobie Brothers,192,201
-2020-08-25T02:33:48-05:00,Dream On,Aerosmith,258,201
-2020-08-25T02:29:29-05:00,Crossfire,"Vaughan, Stevie Ray",246,201
-2020-08-25T02:25:14-05:00,Hot Blooded,Foreigner,255,201
-2020-08-25T02:20:50-05:00,Lithium,Nirvana,253,201
-2020-08-25T02:16:31-05:00,Round And Round,Ratt,259,201
-2020-08-25T02:08:33-05:00,My Best Friends Girl,Cars,215,201
-2020-08-25T02:04:44-05:00,All Along The Watchtower,Jimi Hendrix,228,201
-2020-08-25T02:02:18-05:00,Immigrant Song,Led Zeppelin,140,201
-2020-08-25T01:53:14-05:00,Free Bird,Lynyrd Skynyrd,536,201
-2020-08-25T01:49:49-05:00,Would?!,Alice In Chains,205,201
-2020-08-25T01:43:56-05:00,Hysteria,Def Leppard,341,201
-2020-08-25T01:38:51-05:00,American Girl,Tom Petty & The Heartbreaker,203,201
-2020-08-25T01:34:47-05:00,"Mama, I'm Coming Home",Ozzy Osbourne,244,201
-2020-08-25T01:30:41-05:00,Better Man (Single Version),Pearl Jam,236,201
-2020-08-25T01:26:07-05:00,More Than A Feeling,Boston,273,201
-2020-08-25T01:22:10-05:00,Under Pressure,Queen & David Bowie,227,201
-2020-08-25T01:15:48-05:00,Radar Love  (CD Version),Golden Earring,381,201
-2020-08-25T01:09:06-05:00,Money Talks,AC/DC,223,201
-2020-08-25T01:04:55-05:00,Dreams,Fleetwood Mac,250,201
-2020-08-25T01:02:13-05:00,Down On The Corner,Creedance Clearwater Revival,150,201
-2020-08-25T00:57:42-05:00,Turn Up The Radio,Autograph,263,201
-2020-08-25T00:51:03-05:00,Money Edit,Pink Floyd,386,204
-2020-08-25T00:47:55-05:00,Interstate Love Song,Stone Temple Pilots,187,201
-2020-08-25T00:43:25-05:00,Legs,ZZ Top,262,201
-2020-08-25T00:39:12-05:00,Can't Get Enough,Bad Company,247,201
-2020-08-25T00:35:43-05:00,Let's Go,Cars,209,201
-2020-08-25T00:31:31-05:00,Every Little Thing She Does,Police,241,201
-2020-08-25T00:27:08-05:00,Sweet Emotion,Aerosmith,263,201
-2020-08-25T00:22:15-05:00,You Don't Know How It Feels,"Petty, Tom",282,203
-2020-08-25T00:17:57-05:00,Juke Box Hero,Foreigner,258,201
-2020-08-25T00:10:33-05:00,Hold The Line,Toto,234,201
-2020-08-25T00:08:04-05:00,"For What It's Worth (Stop, H",Buffalo Springfield,148,201
 2020-08-25T00:03:07-05:00,Over The Hills And Far Away,Led Zeppelin,286,201
+2020-08-25T00:08:04-05:00,"For What It's Worth (Stop, H",Buffalo Springfield,148,201
+2020-08-25T00:10:33-05:00,Hold The Line,Toto,234,201
+2020-08-25T00:17:57-05:00,Juke Box Hero,Foreigner,258,201
+2020-08-25T00:22:15-05:00,You Don't Know How It Feels,"Petty, Tom",282,203
+2020-08-25T00:27:08-05:00,Sweet Emotion,Aerosmith,263,201
+2020-08-25T00:31:31-05:00,Every Little Thing She Does,Police,241,201
+2020-08-25T00:35:43-05:00,Let's Go,Cars,209,201
+2020-08-25T00:39:12-05:00,Can't Get Enough,Bad Company,247,201
+2020-08-25T00:43:25-05:00,Legs,ZZ Top,262,201
+2020-08-25T00:47:55-05:00,Interstate Love Song,Stone Temple Pilots,187,201
+2020-08-25T00:51:03-05:00,Money Edit,Pink Floyd,386,204
+2020-08-25T00:57:42-05:00,Turn Up The Radio,Autograph,263,201
+2020-08-25T01:02:13-05:00,Down On The Corner,Creedance Clearwater Revival,150,201
+2020-08-25T01:04:55-05:00,Dreams,Fleetwood Mac,250,201
+2020-08-25T01:09:06-05:00,Money Talks,AC/DC,223,201
+2020-08-25T01:15:48-05:00,Radar Love  (CD Version),Golden Earring,381,201
+2020-08-25T01:22:10-05:00,Under Pressure,Queen & David Bowie,227,201
+2020-08-25T01:26:07-05:00,More Than A Feeling,Boston,273,201
+2020-08-25T01:30:41-05:00,Better Man (Single Version),Pearl Jam,236,201
+2020-08-25T01:34:47-05:00,"Mama, I'm Coming Home",Ozzy Osbourne,244,201
+2020-08-25T01:38:51-05:00,American Girl,Tom Petty & The Heartbreaker,203,201
+2020-08-25T01:43:56-05:00,Hysteria,Def Leppard,341,201
+2020-08-25T01:49:49-05:00,Would?!,Alice In Chains,205,201
+2020-08-25T01:53:14-05:00,Free Bird,Lynyrd Skynyrd,536,201
+2020-08-25T02:02:18-05:00,Immigrant Song,Led Zeppelin,140,201
+2020-08-25T02:04:44-05:00,All Along The Watchtower,Jimi Hendrix,228,201
+2020-08-25T02:08:33-05:00,My Best Friends Girl,Cars,215,201
+2020-08-25T02:16:31-05:00,Round And Round,Ratt,259,201
+2020-08-25T02:20:50-05:00,Lithium,Nirvana,253,201
+2020-08-25T02:25:14-05:00,Hot Blooded,Foreigner,255,201
+2020-08-25T02:29:29-05:00,Crossfire,"Vaughan, Stevie Ray",246,201
+2020-08-25T02:33:48-05:00,Dream On,Aerosmith,258,201
+2020-08-25T02:38:07-05:00,China Grove,Doobie Brothers,192,201
+2020-08-25T02:41:31-05:00,Sweet Child O' Mine (LP Vers,Guns N' Roses,348,201
+2020-08-25T02:47:31-05:00,When I Come Around,Green Day,173,201
+2020-08-25T02:50:24-05:00,Beast Of Burden,Rolling Stones,198,201
+2020-08-25T02:53:53-05:00,One,Metallica,421,201
+2020-08-25T03:01:01-05:00,Touch Me,Doors,188,201
+2020-08-25T03:04:23-05:00,Hotel California,Eagles,379,201
+2020-08-25T03:10:43-05:00,Under The Bridge (Album Vers,Red Hot Chili Peppers,260,201
+2020-08-25T03:18:53-05:00,Black Betty,Ram Jam,147,201
+2020-08-25T03:21:20-05:00,Thunderstruck,AC/DC,289,201
+2020-08-25T03:26:19-05:00,Bohemian Rhapsody,Queen,351,201
+2020-08-25T03:32:11-05:00,Vasoline,Stonetemple Pilots,163,204
+2020-08-25T03:35:03-05:00,Crazy Train,Ozzy Osbourne,277,201
+2020-08-25T03:42:23-05:00,D'yer Mak'er,Led Zeppelin,256,201
+2020-08-25T03:46:40-05:00,We're Not Gonna Take It,Twisted Sister,205,201
+2020-08-25T03:50:17-05:00,All My Life,Foo Fighters,251,201
+2020-08-25T03:54:29-05:00,Have A Cigar,Pink Floyd,292,201
+2020-08-25T03:59:30-05:00,Rag Doll (CD Version),Aerosmith,252,201
+2020-08-25T04:03:48-05:00,Cold As Ice,Foreigner,190,201
+2020-08-25T04:07:09-05:00,Purple Haze,Jimi Hendrix,164,201
+2020-08-25T04:09:54-05:00,The Boys Are Back In Town,Thin Lizzy,257,201
+2020-08-25T04:17:55-05:00,Lonely Is The Night,"Squier, Billy",269,201
+2020-08-25T04:22:24-05:00,Self Esteem,"Offspring, The",255,201
+2020-08-25T04:26:54-05:00,Roxanne,Police,179,201
+2020-08-25T04:29:54-05:00,Love Bites,Def Leppard,321,201
+2020-08-25T04:35:31-05:00,Peace Of Mind,Boston,290,201
+2020-08-25T04:40:21-05:00,You Can't Always Get What Yo,Rolling Stones,437,201
+2020-08-25T04:47:45-05:00,No One Like You,Scorpions,229,201
+2020-08-25T04:51:46-05:00,Live And Let Die,Guns N' Roses,176,201
+2020-08-25T04:54:43-05:00,What's Your Name,Lynyrd Skynyrd,205,201
+2020-08-25T04:58:19-05:00,The Waiting,Tom Petty,227,201
+2020-08-25T05:02:14-05:00,Hair Of The Dog,Nazareth,240,201
+2020-08-25T05:06:24-05:00,Black Dog,Led Zeppelin,284,201
+2020-08-25T05:11:08-05:00,Enter Sandman,Metallica,308,201
+2020-08-25T05:24:25-05:00,Take It Easy,Eagles,205,201
+2020-08-25T05:27:51-05:00,For Those About To Rock (We,AC/DC,342,201
+2020-08-25T05:33:39-05:00,I Want You To Want Me (Live),Cheap Trick,215,201
+2020-08-25T05:37:15-05:00,Are You Gonna Go My Way,Lenny Kravitz,202,202
+2020-08-25T05:40:50-05:00,Freewill,Rush,316,201
+2020-08-25T05:46:06-05:00,Killer Queen,Queen,174,201
+2020-08-25T05:49:12-05:00,I Can't Drive 55,Sammy Hagar,239,201
+2020-08-25T06:00:04-05:00,Possum Kingdom (LP Version),Toadies,303,201
+2020-08-25T06:05:15-05:00,Walk This Way,Aerosmith,214,201
+2020-08-25T06:08:50-05:00,White Room,Cream,287,201
+2020-08-25T06:13:37-05:00,Remote 1,Call in,51,PG2
+2020-08-25T06:20:47-05:00,Fool In The Rain,Led Zeppelin,367,201
+2020-08-25T06:27:04-05:00,Any Way You Want It,Journey,189,201
+2020-08-25T06:30:13-05:00,Remote 1,Call in,52,PG2
+2020-08-25T06:31:06-05:00,No Excuses,Alice In Chains,250,201
+2020-08-25T06:35:16-05:00,Barracuda,Heart,260,202
+2020-08-25T06:39:37-05:00,Remote 1,Call in,44,PG2
+2020-08-25T06:40:21-05:00,Tightrope,Stevie Ray Vaughn,266,201
+2020-08-25T06:44:57-05:00,Rock 'n' Roll Fantasy,Bad Company,192,201
+2020-08-25T06:48:10-05:00,Remote 1,Call in,35,PG2
+2020-08-25T06:54:55-05:00,Brown Sugar,Rolling Stones,224,201
+2020-08-25T06:58:39-05:00,Remote 1,Call in,51,PG2
+2020-08-25T06:59:31-05:00,Rebel Yell,Billy Idol,283,201
+2020-08-25T07:04:22-05:00,Paranoid,Black Sabbath,164,201
+2020-08-25T07:08:10-05:00,Fade To Black,Metallica,395,201
+2020-08-25T07:14:46-05:00,Armageddon It,Def Leppard,306,201
+2020-08-25T07:19:58-05:00,Rhiannon,Fleetwood Mac,239,201
+2020-08-25T07:31:17-05:00,Wish You Were Here,Pink Floyd,279,201
+2020-08-25T07:36:44-05:00,Times Like These (edit),Foo Fighters,226,203
+2020-08-25T07:40:31-05:00,American Woman,Guess Who,224,201
+2020-08-25T07:45:07-05:00,Highway To Hell,AC/DC,206,201
+2020-08-25T07:48:40-05:00,All Apologies  (Album Versio,Nirvana,225,201
+2020-08-25T07:53:48-05:00,Home Sweet Home,Motley Crue,224,201
+2020-08-25T07:57:33-05:00,Jamie's Cryin',Van Halen,197,201
+2020-08-25T08:09:26-05:00,Love In An Elevator,Aerosmith,320,201
+2020-08-25T08:16:04-05:00,Good Riddance (Time of Your,Green Day,143,201
+2020-08-25T08:18:27-05:00,Smokin',Boston,257,201
+2020-08-25T08:23:04-05:00,I Won't Back Down,Tom Petty,170,201
+2020-08-25T08:26:51-05:00,Rock And Roll All Nite,Kiss,221,201
+2020-08-25T08:30:32-05:00,Hey Joe,Jimi Hendrix,200,201
+2020-08-25T08:34:23-05:00,Fell On Black Days,Soundgarden,274,201
+2020-08-25T08:38:58-05:00,No More Mister Nice Guy,Alice Cooper,180,201
+2020-08-25T08:42:40-05:00,Californication,Red Hot Chili Peppers,312,202
+2020-08-25T08:48:04-05:00,Kashmir,Led Zeppelin,499,201
+2020-08-25T09:04:07-05:00,Empty Spaces / Young Lust,Pink Floyd,287,201
+2020-08-25T09:10:08-05:00,Bullet With Butterfly Wings,Smashing Pumpkins,255,201

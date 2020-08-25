@@ -74,7 +74,7 @@ func trackPlaysFromXML(xmlData []byte, plays []trackPlay) ([]trackPlay, error) {
 		plays = addToPlays(&play, plays)
 	}
 	sort.Slice(plays, func(i, j int) bool {
-		return plays[i].StartTime.After(plays[j].StartTime)
+		return plays[i].StartTime.Before(plays[j].StartTime)
 	})
 	return plays, nil
 }
@@ -190,7 +190,7 @@ func updateDataFiles(plays []trackPlay, dataDir string) error {
 			plays = addToPlays(&play, plays)
 		}
 		sort.Slice(plays, func(i, j int) bool {
-			return plays[i].StartTime.After(plays[j].StartTime)
+			return plays[i].StartTime.Before(plays[j].StartTime)
 		})
 		outFile, err := os.Create(filename)
 		if err != nil {

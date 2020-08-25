@@ -37,21 +37,21 @@ func Test_trackPlaysFromXML(t *testing.T) {
 	plays, err = trackPlaysFromXML(ex2, plays)
 	require.NoError(t, err)
 	require.Len(t, plays, 69)
-	wantFirst := trackPlay{
+	wantLast := trackPlay{
 		StartTime: time.Date(2020, 8, 24, 10, 30, 17, 0, tzLocation),
 		Title:     "Why Can't This Be Love",
 		Artist:    "Van Halen",
 		ProgramID: "203",
 		Duration:  210 * time.Second,
 	}
-	require.Equal(t, wantFirst, plays[0])
-	wantLast := trackPlay{
+	wantFirst := trackPlay{
 		StartTime: time.Date(2020, 8, 24, 4, 19, 0, 0, tzLocation),
 		Title:     "Don't Do Me Like That",
 		Artist:    "Tom Petty & The Heartbreaker",
 		ProgramID: "201",
 		Duration:  157 * time.Second,
 	}
+	require.Equal(t, wantFirst, plays[0])
 	require.Equal(t, wantLast, plays[len(plays)-1])
 }
 
