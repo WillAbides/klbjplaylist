@@ -139,6 +139,7 @@ start time,title,artist,duration,program id
 2021-05-20T16:30:19-05:00,Heartbreaker,Pat Benatar,204,2243
 2021-05-20T16:36:48-05:00,Killing In The Name,Rage Against The Machine,308,0111
 2021-05-20T16:41:40-05:00,Killing In The Name,Rage Against The Machine,308,0111
+2021-05-20T16:41:41-05:00,Killing In The Name,Rage Against The Machine,308,0111
 2021-05-20T16:47:25-05:00,Just What I Needed,Cars,221,1037
 2021-05-20T17:08:07-05:00,Hey You,Pink Floyd,275,1623
 2021-05-20T17:19:50-05:00,When I Come Around,Green Day,173,4713
@@ -165,3 +166,15 @@ start time,title,artist,duration,program id
 2021-05-20T19:35:45-05:00,Rock You Like A Hurricane,Scorpions,248,2751
 2021-05-20T19:40:05-05:00,Double Vision,Foreigner,211,4376
 2021-05-20T19:43:36-05:00,Round And Round,Ratt,259,1452
+2021-05-20T19:55:23-05:00,Highway To Hell,AC/DC,206,1608
+2021-05-20T19:58:53-05:00,Shine (Album Version),Collective Soul,303,4113
+2021-05-20T20:04:03-05:00,I Want You To Want Me (Live),Cheap Trick,215,1178
+2021-05-20T20:07:53-05:00,The Spirit Of Radio,Rush,295,2962
+2021-05-20T20:12:48-05:00,Kashmir,Led Zeppelin,499,4771
+2021-05-20T20:21:12-05:00,My Hero,Foo Fighters,238,2840
+2021-05-20T20:32:22-05:00,(I Can't Get No) Satisfaction,Rolling Stones,217,1155
+2021-05-20T20:36:12-05:00,1979,Smashing Pumpkins,245,1535
+2021-05-20T20:40:22-05:00,Gimme All Your Lovin',ZZ Top,231,2195
+2021-05-20T20:45:01-05:00,Dream On,Aerosmith,258,1020
+2021-05-20T20:49:19-05:00,Outside,Staind,287,3456
+2021-05-20T21:00:12-05:00,Fuel,Metallica,265,0106
